@@ -1,7 +1,7 @@
 ###
 Hello 😁
 
-My name is Chelsea Aguilar. I am an undergraduate currently pursuing a BS in Computer Science at California State University Long Beach.
+My name is Chelsea Aguilar. I am an undergraduate currently pursuing a BS in Computer Science at California State University Long Beach. My repositiories consist of projects I have been working on in my coursework throughout my undergrad. I recently had the opportunity at Amex to work in a corporate enterprise GitHub repository where I worked on an individual branch to push commits for a microservice. 
 
 SKILL SET: Java, Python, SQL, NoSQL, Mongo DB, Postgres, HTML, CSS, AWS, VirtualBox
 
@@ -11,7 +11,7 @@ SKILL SET: Java, Python, SQL, NoSQL, Mongo DB, Postgres, HTML, CSS, AWS, Virtual
 
 🌱 Outside of school, I’m researching personal coding projects
 
-📫 How to reach me: ch3ls3aguilar@gmail.com
+📫 How to reach me: ch3ls3aguilar@gmail.com and LinkedIn: https://www.linkedin.com/in/chelcaguilar/
 
 🌊 Fun fact: You can catch me surfing down at Huntington Beach or San O
 
