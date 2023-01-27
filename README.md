@@ -1,7 +1,7 @@
 ###
 Hello 😁
 
-My name is Chelsea Aguilar. I am an undergraduate currently pursuing a BS in Computer Science at California State University Long Beach. My repositiories consist of projects I have been working on in my coursework throughout my undergrad. I recently had the opportunity at Amex to work in a corporate enterprise GitHub repository where I worked on an individual branch to push commits for a microservice. 
+My name is Chelsea Aguilar. I am an undergraduate currently pursuing a BS in Computer Science at California State University Long Beach. My repositories consist of projects I have been working on in my coursework throughout my undergrad. I recently had the opportunity at Amex to work in a corporate enterprise GitHub repository where I worked on an individual branch to push commits for a microservice for a team. I look forward to adding more projects to my profile as I learn more and progress in my career by developing new interests/skills.
 
 SKILL SET: Java, Python, SQL, NoSQL, Mongo DB, Postgres, HTML, CSS, AWS, VirtualBox
 
